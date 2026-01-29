@@ -1,59 +1,54 @@
-# Hi, I'm A S M Sharif Mahmud Sazid 👋
-**Computer Science Engineer | Sylhet, Bangladesh**
+# Hey there, I'm Sharif 👋
 
-🚀 Passionate about building scalable applications, crafting smooth user experiences, and exploring data-driven solutions.  
-🎓 Final-year CSE student at Shahjalal University of Science and Technology (SUST).  
-💡 Skilled in full-stack web development, database and competitive programming.
+<img src="https://komarev.com/ghpvc/?username=sazid-zero&style=flat-square&color=blue" alt="Profile views"/>
 
----
-
-## 🔧 Technical Skills
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Kotlin  
-- **Frontend:** React.js, Next.js, Tailwind CSS, GSAP, Framer Motion  
-- **Backend:** Node.js, Express.js, REST APIs, Authentication & Security  
-- **Mobile:** React Native, Kotlin, Android Development  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-- **Tools & Platforms:** Git, GitHub, Vercel, AWS, Jupyter, NumPy, Pandas  
+## 🚀 About Me
+- 🎓 Final-year Computer Science & Engineering student at **SUST, Sylhet**  
+- 💻 Full-stack developer | Mobile app builder | Data science enthusiast  
+- 🌱 Currently mastering **JavaScript** through LeetCode’s 30-day challenge  
+- ⚡ Fun fact: I enjoy debugging as much as building features  
 
 ---
 
-## 📌 Featured Projects
-### [SUST Research Hub](#)
-Academic research platform for managing theses, datasets, and publications.  
-- Built with Next.js, TypeScript, PostgreSQL, Prisma ORM  
-- Intelligent search system (<500ms load time)  
-- Multi-role authentication serving 150+ active users  
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-### [ConsultBook](#)
-SaaS marketplace for expert consultations.  
-- Next.js, TypeScript, PostgreSQL (Neon DB), Drizzle ORM  
-- Smart scheduling, Stripe payments, real-time messaging hub  
+---
 
-### [WeatherGlass](#)
-Weather forecast app with real-time analytics.  
-- React.js frontend, Node.js backend, OpenWeatherMap API  
-- Geolocation-based retrieval with optimized performance  
+## 🌟 Highlighted Projects
+- **[SUST Research Hub](#)** – Academic research ecosystem with intelligent search & multi-role authentication  
+- **[ConsultBook](#)** – SaaS consultation marketplace with Stripe payments & real-time messaging  
+- **[WeatherGlass](#)** – Weather forecast app with geolocation-based retrieval  
+- **[Portfolio Website](#)** – Responsive portfolio deployed on Vercel with smooth animations  
 
-### [Portfolio Website](#)
-Responsive portfolio showcasing professional work.  
-- React.js + Tailwind CSS  
-- Deployed on Vercel with smooth animations  
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazid-zero&theme=radical" alt="Sharif's streak stats"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
-- 🎯 Codeforces Specialist (Max Rating: 1509)  
-- 🌐 Active GitHub contributor with multiple open-source projects  
+- 🎯 Codeforces Specialist (Max Rating: 1425)  
 - ☁️ AWS Academy Graduate – Cloud Foundations Certified  
+- 🌐 Active GitHub contributor with multiple open-source projects  
 
 ---
 
-## 📫 Connect with Me
-- Email: **sharif.sazid.3@gmail.com**  
-- LinkedIn: [Sharif Mahmud Sazid](https://linkedin.com/in/sharif-mahmud-sazid)  
-- GitHub: [sazid-zero](https://github.com/sazid-zero)  
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharif-mahmud-sazid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sazid-zero)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharif.sazid.3@gmail.com)
 
 ---
-
-![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazid-zero&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazid-zero&layout=compact&theme=radical)
