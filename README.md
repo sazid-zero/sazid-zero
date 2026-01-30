@@ -49,5 +49,3 @@ Full-stack weather application with real-time updates and an analytics dashboard
 
 ![Stats](https://sazid-stats.vercel.app)
 
-![Languages](https://sazid-stats.vercel.app)
-
