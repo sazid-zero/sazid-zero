@@ -4,7 +4,7 @@
 
 I am a **Computer Science Engineer** with strong expertise in full-stack web development, mobile applications, and data science. I am proficient in modern JavaScript frameworks and cloud technologies, with a demonstrated ability to design and deploy scalable applications focused on user experience and performance optimization.
 
-- 🔭 I’m currently working on scalable web applications using **Next.js 16, Node.js, React, TypeScript, JavaScrpit, MongoDB and PostgreSQL**.
+- 🔭 I’m currently working on scalable web applications using **Next.js, Node.js, React, TypeScript, JavaScrpit, MongoDB & PostgreSQL**.
 - 🌱 I’m currently expanding my knowledge and skills in **web development, Database and competitive programming**.
 - 📫 How to reach me: [sharif.sazid.3@gmail.com](mailto:sharif.sazid.3@gmail.com).
 - 🌐 Connect with me on [LinkedIn: sharif-mahmud-sazid](https://linkedin.com).
