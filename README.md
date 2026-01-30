@@ -36,7 +36,7 @@ Production-grade digital ecosystem for Shahjalal University, managing theses, pr
 Full-stack SaaS marketplace connecting experts with clients for consultations and masterclasses.
 *   **Technologies:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe.
 *   **Achievements:** Implemented comprehensive booking system with smart scheduling and integrated Stripe payment infrastructure.
-*   [View Live]([https://example.com](https://consult-book.vercel.app/))
+*   [View Live](https://consult-book.vercel.app/)
 
 ### WeatherGlass – Weather Forecast Application
 Full-stack weather application with real-time updates and an analytics dashboard.
@@ -47,9 +47,9 @@ Full-stack weather application with real-time updates and an analytics dashboard
 
 ## 📈 GitHub Stats
 
-![Sazid's GitHub Stats](https://github-readme-stats.vercel.app)
+![Sazid's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app)
 
-![Top Languages](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com&theme=radical&v=1)
 
