@@ -47,9 +47,7 @@ Full-stack weather application with real-time updates and an analytics dashboard
 
 ## 📈 GitHub Stats
 
-![Sazid's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app)
+![Stats](https://sazid-stats.vercel.app)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com&theme=radical&v=1)
+![Languages](https://sazid-stats.vercel.app)
 
