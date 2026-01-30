@@ -49,3 +49,9 @@ Full-stack weather application with real-time updates and an analytics dashboard
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sazid-zero&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sazid-zero&layout=compact&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sazid-zero&theme=github_dark)
+
+---
+## GitHub Gists
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/gist?id=1e87052648517833a1bc01eec45fe255&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/gist?id=38cea4bb7ba3fded78329db95c7fc88e&theme=github_dark)
