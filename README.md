@@ -38,6 +38,12 @@ Full-stack SaaS marketplace connecting experts with clients for consultations an
 *   **Achievements:** Implemented comprehensive booking system with smart scheduling and integrated Stripe payment infrastructure.
 *   [View Live](https://consult-book.vercel.app/)
 
+### CripterDex – Real-Time Crypto Market Tracker
+Full-stack Crypto Market analyzer and news application with real-time updates and analytics dashboard.
+*   **Technologies:** React.js, Next.js, CoinGecko API, CryptoCompare API.
+*    **Achievements:** Data Cache with a 5-minute revalidation strategy (revalidate: 300) to handle API rate limits.
+*   [View Live](https://cripterdex.vercel.app/)
+
 ### WeatherGlass – Weather Forecast Application
 Full-stack weather application with real-time updates and an analytics dashboard.
 *   **Technologies:** React.js, Node.js, Express, OpenWeatherMap API.
