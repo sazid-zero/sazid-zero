@@ -44,3 +44,5 @@ Full-stack weather application with real-time updates and an analytics dashboard
 *   [View Repository](https://github.com/sazid-zero/WeatherGlass-Weather-Forecast-App)
 
 ---
+
+![Stats](https://github-readme-stats-fast.vercel.app)
