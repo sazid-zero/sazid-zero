@@ -1,54 +1,54 @@
-# Hey there, I'm Sharif 👋
+# Hi there 👋, I'm ASM Sharif Mahmud Sazid
 
-<img src="https://komarev.com/ghpvc/?username=sazid-zero&style=flat-square&color=blue" alt="Profile views"/>
+### Computer Science Engineer | Full-Stack Developer | Data Scientist
 
-## 🚀 About Me
-- 🎓 Final-year Computer Science & Engineering student at **SUST, Sylhet**  
-- 💻 Full-stack developer | Mobile app builder | Data science enthusiast  
-- 🌱 Currently mastering **JavaScript** through LeetCode’s 30-day challenge  
-- ⚡ Fun fact: I enjoy debugging as much as building features  
+I am a **Computer Science Engineer** with strong expertise in full-stack web development, mobile applications, and data science. I am proficient in modern JavaScript frameworks and cloud technologies, with a demonstrated ability to design and deploy scalable applications focused on user experience and performance optimization.
 
----
-
-## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+- 🔭 I’m currently working on scalable web applications using **Next.js 16, Node.js, React, TypeScript, JavaScrpit, MongoDB and PostgreSQL**.
+- 🌱 I’m currently expanding my knowledge and skills in **web development, Database and competitive programming**.
+- 📫 How to reach me: [sharif.sazid.3@gmail.com](mailto:sharif.sazid.3@gmail.com).
+- 🌐 Connect with me on [LinkedIn: sharif-mahmud-sazid](https://linkedin.com).
 
 ---
 
-## 🌟 Highlighted Projects
-- **[SUST Research Hub](#)** – Academic research ecosystem with intelligent search & multi-role authentication  
-- **[ConsultBook](#)** – SaaS consultation marketplace with Stripe payments & real-time messaging  
-- **[WeatherGlass](#)** – Weather forecast app with geolocation-based retrieval  
-- **[Portfolio Website](#)** – Responsive portfolio deployed on Vercel with smooth animations  
+## 🛠️ Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, C++, Java, Python, JavaScript, TypeScript, Kotlin |
+| **Frontend** | React.js, Next.js, HTML, CSS, Tailwind CSS, GSAP, Framer Motion, Responsive Design |
+| **Backend** | Node.js, Express.js, REST APIs, Authentication & Security |
+| **Mobile** | React Native, Kotlin, Android Development |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, Supabase |
+| **Tools & Platforms** | Git, GitHub, Vercel, AWS, Jupyter, NumPy, Pandas |
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazid-zero&theme=radical" alt="Sharif's streak stats"/>
-</p>
+## 🚀 Featured Projects
+
+### SUST Research Hub – Academic Research Platform
+Production-grade digital ecosystem for Shahjalal University, managing theses, projects, and publications.
+*   **Technologies:** Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM.
+*   **Achievements:** Engineered an advanced search system with <500ms average page load time and achieved 99.9% uptime with Cloudinary CDN.
+*   [View Live](https://example.com)
+
+### ConsultBook – Expert Consultation Platform
+Full-stack SaaS marketplace connecting experts with clients for consultations and masterclasses.
+*   **Technologies:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe.
+*   **Achievements:** Implemented comprehensive booking system with smart scheduling and integrated Stripe payment infrastructure.
+*   [View Live](https://example.com)
+
+### WeatherGlass – Weather Forecast Application
+Full-stack weather application with real-time updates and an analytics dashboard.
+*   **Technologies:** React.js, Node.js, Express, OpenWeatherMap API.
+*   [View Repository](https://github.com)
 
 ---
 
-## 🏆 Achievements
-- 🎯 Codeforces Specialist (Max Rating: 1425)  
-- ☁️ AWS Academy Graduate – Cloud Foundations Certified  
-- 🌐 Active GitHub contributor with multiple open-source projects  
+## 📈 GitHub Stats
+```markdown
+![Sazid's GitHub Stats](https://github-readme-stats.vercel.app)
 
----
+![Top Languages](https://github-readme-stats.vercel.app)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharif-mahmud-sazid)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sazid-zero)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharif.sazid.3@gmail.com)
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
