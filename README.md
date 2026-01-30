@@ -30,25 +30,26 @@ I am a **Computer Science Engineer** with strong expertise in full-stack web dev
 Production-grade digital ecosystem for Shahjalal University, managing theses, projects, and publications.
 *   **Technologies:** Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM.
 *   **Achievements:** Engineered an advanced search system with <500ms average page load time and achieved 99.9% uptime with Cloudinary CDN.
-*   [View Live](https://example.com)
+*   [View Live](https://sust-research-hub.vercel.app/)
 
 ### ConsultBook – Expert Consultation Platform
 Full-stack SaaS marketplace connecting experts with clients for consultations and masterclasses.
 *   **Technologies:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe.
 *   **Achievements:** Implemented comprehensive booking system with smart scheduling and integrated Stripe payment infrastructure.
-*   [View Live](https://example.com)
+*   [View Live]([https://example.com](https://consult-book.vercel.app/))
 
 ### WeatherGlass – Weather Forecast Application
 Full-stack weather application with real-time updates and an analytics dashboard.
 *   **Technologies:** React.js, Node.js, Express, OpenWeatherMap API.
-*   [View Repository](https://github.com)
+*   [View Repository](https://github.com/sazid-zero/WeatherGlass-Weather-Forecast-App)
 
 ---
 
 ## 📈 GitHub Stats
-```markdown
+
 ![Sazid's GitHub Stats](https://github-readme-stats.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
+
