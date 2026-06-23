@@ -3,7 +3,7 @@
 ### Software Engineer | Full-Stack Developer | Cloud & DevOps Specialist
 ### 🏅 AWS Certified Solution Architect - Associate
 
-I am a **Computer Science Engineer** with strong expertise in full-stack web development, mobile applications, and data science. I am proficient in modern JavaScript frameworks and cloud technologies, with a demonstrated ability to design and deploy scalable applications focused on user experience and performance optimization.
+I am a **Computer Science & Engineering Graduate** with strong expertise in full-stack development, cloud architecture and devOps. I am proficient in modern JavaScript frameworks and cloud technologies, with a demonstrated ability to design and deploy scalable applications focused on user experience and performance optimization.
 
 - 🔭 I’m currently working on scalable web applications using **Next.js, React, TypeScript, JavaScrpit, MongoDB & PostgreSQL**.
 - 🌱 I’m currently expanding my knowledge and skills in **web development, Database and competitive programming**.
