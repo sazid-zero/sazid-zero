@@ -6,7 +6,7 @@
 I am a **Computer Science & Engineering Graduate** with strong expertise in full-stack development, cloud architecture and devOps. I am proficient in modern JavaScript frameworks and cloud technologies, with a demonstrated ability to design and deploy scalable applications focused on user experience and performance optimization.
 
 - 🔭 I’m currently working on scalable web applications using **Next.js, React, TypeScript, JavaScrpit, MongoDB & PostgreSQL**.
-- 🌱 I’m currently expanding my knowledge and skills in **web development, Database and competitive programming**.
+- 🌱 I’m currently expanding my knowledge and skills in **Quality assurance, Automation and competitive programming**.
 - 📫 How to reach me: [sharif.sazid.3@gmail.com](mailto:sharif.sazid.3@gmail.com).
 - 🌐 Connect with me on [LinkedIn: sharif-mahmud-sazid](https://linkedin.com).
 
