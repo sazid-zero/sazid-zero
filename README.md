@@ -16,12 +16,12 @@ I am a final year **Computer Science & Engineering** student with strong experti
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | C, C++, Java, Python, JavaScript, TypeScript, Kotlin |
+| **Languages** | C, C++, Java, Python, JavaScript, TypeScript |
 | **Frontend** | React.js, Next.js, HTML, CSS, Tailwind CSS, GSAP, Framer Motion, Responsive Design |
 | **Backend** | Node.js, Express.js, REST APIs, Authentication & Security |
 | **Mobile** | React Native, Kotlin, Android Development |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, Supabase |
-| **Tools & Platforms** | Git, GitHub, Vercel, AWS, Jupyter, NumPy, Pandas |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, Supabase, Prisma ORM |
+| **Tools & Platforms** | Git, GitHub, Vercel, AWS, Jupyter, NumPy, Pandas, Postman |
 
 ---
 
